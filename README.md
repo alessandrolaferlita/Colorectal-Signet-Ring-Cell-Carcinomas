@@ -1,0 +1,1 @@
+This repository contains the scripts used to analyze the RNA-Seq data from the study titled 'Patient-derived Organoids and Xenografts Uncover Therapeutic Vulnerabilities in Colorectal Signet Ring Cell Carcinomas.'
